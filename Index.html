@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>BLISSBROOM CLEANERS</title>
+  <meta name="description" content="BLISSBROOM CLEANERS provides top-notch, eco-friendly cleaning services with a focus on quality, accessibility, and sustainability." />
+  <meta name="keywords" content="BLISSBROOM, cleaning services, eco-friendly cleaners, professional cleaning, accessible services" />
+  <meta name="author" content="Blissbroom Team" />
+</head>
+<body>
+
+  <header role="banner">
+    <h1>BLISSBROOM CLEANERS</h1>
+    <p>Eco-friendly cleaning solutions for a happier, healthier space.</p>
+  </header>
+
+  <nav role="navigation" aria-label="Primary navigation">
+    <ul>
+      <li><a href="#about">About Us</a></li>
+      <li><a href="#services">Our Services</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <main role="main">
+    <article id="about">
+      <h2>About BLISSBROOM</h2>
+      <p>At BLISSBROOM CLEANERS, we specialize in delivering high-quality, sustainable cleaning services for homes and offices. Our team is committed to cleanliness, safety, and environmental care.</p>
+    </article>
+
+    <section id="services" aria-labelledby="services-heading">
+      <h2 id="services-heading">Our Services</h2>
+      <ul>
+        <li>Residential and commercial cleaning</li>
+        <li>Deep cleaning and sanitization</li>
+        <li>Eco-friendly products and methods</li>
+        <li>Flexible scheduling with reliable teams</li>
+      </ul>
+    </section>
+
+    <article id="contact">
+      <h2>Contact Us</h2>
+      <p>We'd love to hear from you! Reach out for quotes, bookings, or questions:</p>
+      <address>
+        <a href="mailto:contact@blissbroom.com">contact@blissbroom.com</a>
+      </address>
+    </article>
+  </main>
+
+  <footer role="contentinfo">
+    <p>© 2025 BLISSBROOM CLEANERS. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
+
+
